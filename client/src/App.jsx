@@ -161,10 +161,9 @@ export default function TechTypePortfolio() {
           {/* Project 2: ezohr */}
           <div className="bg-slate-900 border border-slate-800 rounded-2xl overflow-hidden hover:border-slate-700 transition-all flex flex-col justify-between p-8">
             <div>
-              <span className="text-xs font-semibold text-amber-400 uppercase tracking-widest">Recruitment Platform</span>
-              <h3 className="text-2xl font-bold text-white mt-2 mb-4">ezohr (Ezo Jobs)</h3>
-              <p className="text-slate-400 text-sm leading-relaxed mb-6">
-                A job portal application built using MERN/PERN architecture. Features candidate onboarding, job posting pipelines, recruiter management dashboards, and Google OAuth integration.
+              <span className="text-xs font-semibold text-amber-400 uppercase tracking-widest"> Centralized System Monitoring Tool</span>
+              <h3 className="text-2xl font-bold text-white mt-2 mb-4">Sys Mon</h3>
+              <p className="text-slate-400 text-sm leading-relaxed mb-6"> SysMon is a system monitoring platform that provides real-time insights into CPU, memory, disk, network, and server health, enabling administrators to detect issues, manage alerts, and maintain reliable system performance.
               </p>
             </div>
             <div>
