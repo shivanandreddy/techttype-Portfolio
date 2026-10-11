@@ -77,7 +77,7 @@ export default function TechTypePortfolio() {
   "stack": ["PERN", "MERN"],
   "capabilities": [
     "Enterprise HMIS (MedEasy)",
-    "Recruitment Portals (ezohr)",
+    "Client-Side Automation Tools",
     "RESTful API Systems",
     "Client PDF & Automation"
   ]
